@@ -15,3 +15,6 @@ One of the few disadvantages of Retrofit is that it does not support image loadi
 Glide is a fast and efficient image loading library for Android focused on smooth scrolling. Glide offers an easy to use API, a performant and extensible resource decoding pipeline and automatic resource pooling.
 
 Glide supports fetching, decoding, and displaying video stills, images, and animated GIFs.
+
+
+## [Video link](ttps://drive.google.com/file/d/11pVoY6JZEFOdTWj67F1JQAS1lHijg3KZ/view?usp=sharing)
