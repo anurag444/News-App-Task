@@ -17,4 +17,4 @@ Glide is a fast and efficient image loading library for Android focused on smoot
 Glide supports fetching, decoding, and displaying video stills, images, and animated GIFs.
 
 
-## [Video link](ttps://drive.google.com/file/d/11pVoY6JZEFOdTWj67F1JQAS1lHijg3KZ/view?usp=sharing)
+## [Video link](https://drive.google.com/file/d/11pVoY6JZEFOdTWj67F1JQAS1lHijg3KZ/view?usp=sharing)
